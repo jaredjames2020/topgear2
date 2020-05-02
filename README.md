@@ -7,4 +7,5 @@ file structure
     src
       index.js
       class files
-      
+
+rails g resource [classname] [attributes] --no-test-framework 14:50

@@ -1,5 +1,5 @@
 # topgear2
-file structure
+### FILE STRUCTURE ###
   README.md
   topgear2 - API
   topgear2 - Client
@@ -50,7 +50,7 @@ select current location
 displays next arrival time & # of stops away & service status
 
 
-### classes ###
+### CLASSES ###
 Bus (belong to route)
   route_name - string
   route_destination - string
@@ -79,3 +79,34 @@ User
   observed_service_status - string (report service status update) Yes or No
   bus_id - foreign key
   user_id - foreign key
+
+AppContainer - stores data across the application - helps so you dont have to make a fetch request everytime - can store data locally
+STORE ARRAY OF:
+Bus Instances (from above)
+Route Instances (from above)
+urls from data fetch
+methods needed for the fetch (these are functions)
+render activities - what is being sent to the DOM (these are functions)
+
+Current_request - frontend class that will not persist
+bus lineNames
+route_name
+route_destination
+service_origin
+service_destination
+
+***Frontend data classes do not persist in the database***
+
+### AJAX REQUEST ###
+1. get /buses
+2. get /routes
+3. update /user/route/observed_congestion
+4. update /user/route/observed_time_status
+5. update /user/route/observed_service_status
+
+
+### Bus = Activity, Route = Categories ###
+
+### TO DESTORY DATABASE ###
+Busssess.destroy_all
+Routes.destroy_all

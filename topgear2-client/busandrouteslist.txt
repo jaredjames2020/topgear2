@@ -1,0 +1,292 @@
+B1 - Bay Ridge - Manhattan Beach
+B2 - Kings Hwy Station - Kings Plaza
+B3 - Bensonhurst - Bergen Beach
+B4 - Bay Ridge - Sheepshead Bay
+B6 - Bath Beach - East New York
+B7 - Midwood - Bedford-Stuyvesant
+B8 - Dyker Heights - East Flatbush
+B9 - Bay Ridge - Kings Plaza
+B11 - Sunset Park - Midwood
+B12 - Lefferts Gardens - East New York
+B13 - Spring Creek - Wyckoff Hospital
+B14 - Spring Creek - Crown Heights
+B15 - Bedford Stuyvesant - JFK Airport
+B16 - Bay Ridge - Lefferts Gardens
+B17 - Canarsie - Crown Heights
+B20 - Ridgewood - Spring Creek
+B24 - Williamsburg - Greenpoint
+B25 - Dwntn Bklyn & DUMBO - Broadway Junction
+B26 - Downtown Brooklyn - Ridgewood
+B31 - Gerritsen Beach - Kings Hwy Station
+B32 - Williamsburg - Long Island City
+B35 - Brownsville - Sunset Park
+B36 - Sheepshead Bay - Coney Island
+B37 - Downtown Brooklyn - Bay Ridge
+B38 - Ridgewood - Downtown Brooklyn
+B39 - Williamsburg Bridge Plaza - Lower East Side
+B41 - Kings Plaza - Downtown Brooklyn
+B42 - Canarsie Pier - Rockaway Parkway Station
+B43 - Greenpoint - Lefferts Gardens
+B44 - Sheepshead Bay - Williamsburg
+B44-SBS - Sheepshead Bay - Williamsburg
+B45 - Downtown Brooklyn - Crown Heights
+B46 - Kings Plaza - Williamsburg
+B46-SBS - Kings Plaza - Williamsburg
+B47 - Kings Plaza - Bedford-Stuyvesant
+B48 - Lefferts Gardens - Greenpoint
+B49 - Manhattan Beach - Bedford-Stuyvesant
+B52 - Downtown Brooklyn - Ridgewood
+B54 - Downtown Brooklyn - Ridgewood
+B57 - Gowanus - Maspeth
+B60 - Williamsburg - Canarsie
+B61 - Park Slope - Downtown Brooklyn
+B62 - Downtown Brooklyn - Long Island City
+B63 - Bay Ridge - Cobble Hill
+B64 - Bay Ridge - Coney Island
+B65 - Downtown Brooklyn - Crown Heights
+B67 - Brooklyn Navy Yard - Kensington
+B68 - Coney Island - Windsor Terrace
+B69 - Downtown Brooklyn - Kensington
+B70 - Dyker Heights - Sunset Park
+B74 - Sea Gate - Stillwell Av
+B82 - Coney Island - Spring Creek Towers
+B82-SBS - Coney Island -spring Creek Towers
+B83 - Spring Creek - Broadway Junction
+B84 - Spring Creek-New Lots
+B100 - Mill Basin - Midwood
+B103 - Canarsie - Downtown Brooklyn Ltd
+BM1 - Mill Basin - Downtown/Midtown
+BM2 - Canarsie/Spring Creek - Downtown/Midtown
+BM3 - Sheepshead Bay - Downtown/Midtown
+BM4 - Gerritsen Beach - Downtown/Midtown
+BM5 - Spring Creek - Midtown
+Bx1 - Riverdale - Mott Haven
+Bx2 - Kingsbridge Heights - Mott Haven
+Bx3 - Riverdale - George Washington Bridge
+Bx4 - Westchester Sq - The Hub
+Bx4A - Westchester Sq - Gladstone Sq
+Bx5 - Pelham Bay - West Farms Rd & Southern Blvd
+Bx6 - Hunts Point - Riverside Dr
+Bx6-SBS - Soundview - Riverside Dr
+Bx7 - Riverdale - Washington Heights
+Bx8 - Williamsbridge - Locust Point
+Bx9 - Riverdale - West Farms Sq
+Bx10 - Riverdale - Norwood
+Bx11 - Parkchester - Southern Blvd & GW Bridge
+Bx12 - Pelham Pkwy - Fordham Rd
+Bx12-SBS - Pelham Pkwy - Fordham Rd
+Bx13 - George Washington Bridge - Yankee Stadium
+Bx15 - Fordham Plaza - The Hub
+Bx16 - Pelham - Norwood
+Bx17 - Fordham Plaza - Port Morris
+Bx18 - Morris Heights/High Bridge Circulator
+Bx19 - NY Botanical Garden - Riverbank Park
+Bx21 - Westchester Sq - Mott Haven
+Bx22 - Bedford Park - Castle Hill
+Bx23 - Pelham Bay - Co-Op City
+Bx24 - Country Club - Hutchinson Metro Center
+Bx26 - Co-op City Section 5 - Bedford Park
+Bx27 - Clasons Pt - West Farms Rd & Southern Blvd
+Bx28 - Co-op City Section 5 - Fordham Center
+Bx29 - City Island - Pelham Bay Pk Station
+Bx30 - Co-op City Section 5 - Pelham Pkwy
+Bx31 - Woodlawn - Westchester Sq
+Bx32 - Kingsbridge VA Hospital - Mott Haven
+Bx33 - Port Morris - Harlem
+Bx34 - Woodlawn - Fordham Center
+Bx35 - West Farms Rd & Jennings St - GW Bridge
+Bx36 - Soundview - George Washington Bridge
+Bx38 - Co-op City Bay Plaza - Norwood
+Bx39 - Wakefield - Clasons Pt
+Bx40 - Throgs Neck - River Park Towers
+Bx41 - Williamsbridge - The Hub
+Bx41-SBS - Williamsbridge - The Hub
+Bx42 - Throgs Neck - River Park Towers
+Bx46 - Prospect Av - Westchester Av / Hunts Point Market
+BxM1 - Riverdale - Midtown Via 3 Ave
+BxM2 - Riverdale - Midtown Via 7 Ave
+BxM3 - Yonkers - Midtown
+BxM4 - Woodlawn - Midtown
+BxM6 - Parkchester - Midtown
+BxM7 - Co-Op City - Midtown
+BxM8 - Pelham Bay/City Island - Midtown
+BxM9 - Throgs Neck - Midtown
+BxM10 - Williamsbridge/Morris Park - Midtown
+BxM11 - Wakefield - Midtown
+BxM18 - Riverdale - Downtown
+M1 - Harlem - East Village
+M2 - Washington Heights - East Village
+M3 - Fort George - East Village
+M4 - The Cloisters - 32 St
+M5 - George Washington Bridge - 31 St & 6 Av
+M7 - Harlem - 14th Street
+M8 - West Village - East Village LTD
+M9 - Battery Park City - Kips Bay
+M10 - Harlem - Columbus Circle
+M11 - Riverbank Park & Harlem - West Village
+M12 - Midtown West - West Village
+M14A-SBS - Lower East Side - Abingdon Sq
+M14D-SBS - Lower East Side - Chelsea Piers
+M15 - East Harlem - South Ferry
+M15-SBS - East Harlem - South Ferry
+M20 - Lincoln Center - South Ferry
+M21 - Lower East Side - West Village LTD
+M22 - Lower East Side - Battery Park City
+M23-SBS - Chelsea Piers - East Side
+M31 - Yorkville - Clinton
+M34-SBS - East Side - Javits Center
+M34A-SBS - Waterside - Port Authority Terminal
+M35 - Ward's Island - East Harlem
+M42 - United Nations - W 42 St Pier
+M50 - W 42 St Pier - East Side
+M55 - W 44 St - South Ferry
+M57 - East Side - West Side
+M60-SBS - LaGuardia Airport - West Side
+M66 - East Side - Lincoln Center
+M72 - East Side - West Side
+M79-SBS - Yorkville - West Side
+M86-SBS - Yorkville - West Side
+M96 - East Side - West Side
+M100 - Inwood - Manhattanville
+M101 - East Village - Harlem
+M102 - Harlem - East Village
+M103 - East Harlem - City Hall
+M104 - West Harlem - Times Square
+M106 - East Harlem - West Side
+M116 - West Side - East Harlem
+M191 - 191 ST Shuttle Loop
+Q1 - Queens Village / Bellerose - Jamaica
+Q2 - Queens Village - Jamaica
+Q3 - Jamaica - JFK Airport
+Q4 - Cambria Heights - Jamaica
+Q5 - Rosedale - Jamaica
+Q6 - Sutphin Boulevard
+Q7 - Rockaway Boulevard
+Q8 - 101St Avenue
+Q9 - Lincoln Street
+Q10 - Kew Gardens - Jfk Airport
+Q11 - Woodhaven Blvd
+Q12 - Little Neck - Flushing
+Q13 - Fort Totten - Flushing
+Q15 - Flushing - Beechhurst
+Q15A - Flushing - Beechhurst / Whitestone
+Q16 - Fort Totten - Flushing
+Q17 - Flushing - Jamaica
+Q18 - 30 Ave - 58 St - 65 Pl
+Q19 - Astoria Blvd
+Q20A - College Point - Jamaica
+Q20B - College Point - Jamaica
+Q21 - Cross Bay - Woodhaven Blvds
+Q22 - Rockaway Beach Blvd - Beach Channel Dr
+Q23 - 108 Street
+Q24 - Broadway Junction - Jamaica
+Q25 - 127 Street - Kissena Bl - Parsons Bl
+Q27 - Cambria Heights - Flushing
+Q28 - Bayside - Flushing
+Q29 - Dry Harbor Road - 80 Street
+Q30 - Little Neck or Queensborough Community College - Jamaica
+Q31 - Bayside - Jamaica
+Q32 - Jackson Heights - Penn Station
+Q33 - 82 St/83 St - 95 St & Ditmars Blvd
+Q34 - Willets Pt Bl - Kissena Bl - Parsons Bl
+Q35 - Rockaway Park - Brooklyn College
+Q36 - Floral Park or Little Neck - Jamaica
+Q37 - 111Th Street
+Q38 - Eliot Ave - Penelope Ave
+Q39 - 48 Ave - 58 St - Forest Ave
+Q40 - 142Nd Street
+Q41 - 127Th Street - 109Th Avenue
+Q42 - Addeslieigh Park - Jamaica
+Q43 - Floral Park - Jamaica
+Q44-SBS - Bronx Zoo - Jamaica
+Q46 - Glen Oaks - Kew Gardens
+Q47 - Atlas Mall - Laguardia Main Term
+Q48 - Flushing - LaGuardia Airport
+Q49 - 35 Ave
+Q50 - Co-Op City/Pelham Bay - Flushing
+Q52-SBS - Elmhurst - Arverne
+Q53-SBS - Woodside - Rockaway Park
+Q54 - Williamsburg - Jamaica
+Q55 - Ridgewood - Richmond Hill
+Q56 - Broadway Junction - Jamaica
+Q58 - Ridgewood - Flushing
+Q59 - Williamsburg - Rego Park
+Q60 - Queens Boulevard
+Q64 - Jewel Ave
+Q65 - College Point Bl - 164 St
+Q66 - Northern Blvd/Queens Plaza S
+Q67 - Borden Ave - 69 Street
+Q69 - 21 St - Ditmars Blvd
+Q70-SBS - LaGuardia Link
+Q72 - Junction Blvd - LaGuardia Main Term
+Q76 - College Point - Jamaica
+Q77 Laurelton - Jamaica
+Q83 - Cambria Heights - Jamaica
+Q84 - Laurelton - Jamaica
+Q85 - Rosedale - Jamaica
+Q88 - Elmhurst - Queens Village
+Q100 - Rikers Island - Long Island City
+Q101 - Steinway Street
+Q102 - 31 St - Roosevelt Island
+Q103 - 27 Ave - Borden Ave
+Q104 - Broadway - 48 Street
+Q110 - Jamaica Ave - Hempstead Ave
+Q111 - Guy Brewer Blvd - 147Th Ave
+Q112 - Liberty Ave
+Q113 - Guy Brewer Blvd - Nassau Expwy Ltd
+Q114 - Guy Brewer Blvd Ltd - Rockaway Tpk
+QM1 - Fresh Meadows - Midtown Via 6 Av
+QM2 - Bay Terrace - Midtown Via 6 Av
+QM3 - Little Neck - Midtown
+QM4 - Electchester - Midtown Via 6Th Ave
+QM5 - Glen Oaks - Midtown Via 6 Av
+QM6 - Lake Success - Midtown Via 6 Av
+QM7 - Fresh Meadows - Downtown
+QM8 - Glen Oaks - Downtown
+QM10 - Lefrak City - Midtown Via 6 Av
+QM11 - Forest Hills - Downtown
+QM12 - Forest Hills - Midtown Via 6 Av
+QM15 - Lindenwood - Midtown Express
+QM16 - Neponsit - Midtown Express
+QM17 - Far Rockaway - Midtown Express
+QM18 - South Ozone Park - Midtown Express
+QM20 - Bay Terrace - Midtown
+QM21 - Rochdale Village - Midtown
+QM24 - Glendale - Midtown Via 6 Av
+QM25 - Glendale - Downtown
+QM31 - Fresh Meadows - Midtown Via 3 Av
+QM32 - Bay Terrace - Midtown Via 3 Av
+QM34 - Glendale - Midtown Via 3 Av
+QM35 - Glen Oaks - Midtown Via 3 Av
+QM36 - Lake Success - Midtown Via 3 Av
+QM40 - Lefrak City - Midtown Via 3 Av
+QM42 - Forest Hills - Midtown Via 3 Av
+QM44 - Electchester - Midtown Via 3Rd Ave
+S40 - St. George - Goethals Rd North
+S44 - St. George - Staten Island Mall
+S46 - St. George - West Shore Plaza
+S48 - St. George - Mariners Harbor
+S51 - St. George - West Shore Plaza
+S52 - St. George - Staten Island Univ. Hospital
+S53 - Port Richmond - Bay Ridge
+S54 - West New Brighton - Eltingville
+S55 - Rossville - Staten Island Mall
+S56 - Huguenot - Staten Island Mall
+S57 - Port Richmond - New Dorp
+S59 - Port Richmond - Tottenville
+S61 - St. George - Staten Island Mall
+S62 - St. George - Travis
+S74 - St. George - Bricktown Mall
+S76 - St. George - Oakwood
+S78 - St. George - Bricktown Mall
+S79-SBS - Staten Island Mall - Bay Ridge
+S89 - Eltingville - Bayonne LTD
+SIM1C - Staten Island - Manhattan Express
+SIM3C - Staten Island - Manhattan Express
+SIM4C - Staten Island - Manhattan Express
+SIM33C - Mariners Harbor - Greenwich Village Express
+X27 - Bay Ridge - Manhattan Express
+X28 - Sea Gate / Bensonhurst - Manhattan Express
+X63 - Rosedale - Midtown Manhattan Express
+X64 - Cambria Heights - Midtown Manhattan Express
+X68 - Floral Park - Midtown Manhattan Express

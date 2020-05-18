@@ -1,46 +1,21 @@
 class Bus {
-    constructor(name){
-      this.name = name;
-    }
+  constructor(name, route_destination, route_origin, route, congestion){
+    this.name = name;
+    this.route_destination = route_destination;
+    this.route_origin = route_origin;
+    this.route = route;
+    this.congestion = congestion;
+    AppContainer.bus.push(this);
+  }
 }
 
-
-
-
-
-url = "http://api.prod.obanyc.com/api/siri/vehicle-monitoring.json?key=02e06296-1f9a-40a3-a94d-5a3d6ee09f2e&callback=configObj";
-localfile = './vehicle-monitoring-05022020-1138.json';
-
-fetch(localfile)
-  .then(resp => resp.json())
-  .then(function(object) {
-    let lineNames = [];
-    let destinations = [];
-
-    const unique = (value, index, self) => {
-      return self.indexOf(value) === index
-    }
-
-    let busesInRequest = object.Siri.ServiceDelivery.VehicleMonitoringDelivery[0].VehicleActivity;
-
-    for (const eachEntry in busesInRequest) {
-      lineNames.push(busesInRequest[eachEntry].MonitoredVehicleJourney.PublishedLineName)
-      destinations.push(busesInRequest[eachEntry].MonitoredVehicleJourney.DestinationName)
-    }//use map to create new array
-
-    const uniqueBusLines = lineNames.sort().filter(unique)
-
-
-    console.log(uniqueBusLines)
-    console.log(destinations)
-    // console.log((object.Siri.ServiceDelivery.VehicleMonitoringDelivery[0].VehicleActivity[0].MonitoredVehicleJourney.PublishedLineName));
-    // console.log((object.Siri.ServiceDelivery.VehicleMonitoringDelivery[0].VehicleActivity[0].MonitoredVehicleJourney.DestinationName));
-    // console.log((object.Siri.ServiceDelivery.VehicleMonitoringDelivery[0].VehicleActivity[0].MonitoredVehicleJourney.MonitoredCall.Extensions.Distances.PresentableDistance));
-    // console.log((object.Siri.ServiceDelivery.VehicleMonitoringDelivery[0].VehicleActivity[0].MonitoredVehicleJourney.MonitoredCall.StopPointName));
-    // console.log((object.Siri.ServiceDelivery.VehicleMonitoringDelivery[0].VehicleActivity[0].MonitoredVehicleJourney.ProgressRate));
-
-  })
-  .catch(function(error) {
-    alert("Everything id Broken!!! AHHHH!!!!");
-    console.log(error.message);
-  });
+//store which route a bus belongs to
+// t.string "route_name"
+// t.string "route_destination"
+// t.string "congestion"
+// t.string "current_location"
+// t.string "next_stop"
+// t.string "stops_away"
+// t.string "user_location"
+// t.integer "route_id"
+// t.integer "user_id"

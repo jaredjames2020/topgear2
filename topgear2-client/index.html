@@ -3,16 +3,116 @@
   <head>
     <meta charset="utf-8">
     <title>TOPGEAR2</title>
+    <link rel="stylesheet" href="/src/bootstrap.min.css">
   </head>
   <body>
-    <label for="#bus-line">Select Bus Line</label>
-  <select class="" name="" id="bus-line">
-  </select>
 
-    <script src="./src/AppContainer.js"></script>
+  <div class="jumbotron">
+        <h1 class="display-3">TOPGEAR2</h1>
+        <p class="lead">NYC BUS TRACKER AND STATUS</p>
+
+    <label for="#bus-line">Select Bus Line</label>
+      <select class="" name="" id="bus-line" onselect="routeSelector(this.value)">
+        <option value="Select Bus Line">Select Bus Line</option>
+      </select><br><br>
+
+  <div id="route_destination"></div>
+  <div id="route_origin"></div>
+
+  <div id="route_table"></div>
+
+  <div id="activity"></div>
+
+
+  <div id="activity_table" >
+      <label for="#origin_activity_table" id="ori_act_tbl_lbl">Destination: </label>
+    <table id="origin_activity_table" class="table-info">
+      <thead id="origin_table_head">
+        <tr>
+          <th>Stop</th>
+          <th>Location</th>
+          <th>Delay</th>
+          <th>Congestion</th>
+        </tr>
+      </thead>
+    </table>
+
+  <div id="origin_dropdown">
+    <select id="origin_list_selector" name="origin_list_selector">
+      <option value="Select Bus">Select Bus</option>
+    </select>
+  </div>
+
+  <div id="origin_congestion_dropdown"></div>
+  <label for="#congestion-level">Congestion Level</label>
+    <select id="origin-congestion-level">
+      <option selected value="LIMITED SEATS"> -- select an option -- </option>
+      <option value="STANDING ONLY">STANDING ONLY</option>
+      <option value="LIMITED SEATS">LIMITED SEATS</option>
+      <option value="MANY SEATS">MANY SEATS</option>
+    </select>
+  </div>
+
+  <div id="origin_delay_dropdown"></div>
+    <label for="#delay-level">Delay</label>
+      <select id="origin-delay-level">
+        <option selected value="ON TIME"> -- select an option -- </option>
+        <option value="ON TIME">ON TIME</option>
+        <option value="ACCIDENT">ACCIDENT</option>
+        <option value="DELAY">DELAY</option>
+        <option value="EMERGENCY">EMERGENCY</option>
+    </select>
+  <button type="origin_button" name="origin_button" id="origin_button">SUBMIT</button>
+    <br><br>
+
+  <label for="#destination_activity_table" id="des_act_tbl_lbl">Destination: </label>
+    <table id="destination_activity_table" class="table-info">
+      <thead id="destination_table_head">
+        <tr>
+          <th>Stop</th>
+          <th>Location</th>
+          <th>Delay</th>
+          <th>Congestion</th>
+        </tr>
+      </thead>
+    </table>
+
+    <div id="destination_dropdown">
+      <select id="destination_list_selector" name="destination_list_selector">
+        <option value="Select Bus">Select Bus</option>
+
+      </select>
+    </div>
+
+    <div id="destination_congestion_dropdown"></div>
+    <label for="#congestion-level">Congestion Level</label>
+      <select id="destination-congestion-level">
+        <option selected value="LIMITED SEATS"> -- select an option -- </option>
+        <option value="STANDING ONLY">STANDING ONLY</option>
+        <option value="LIMITED SEATS">LIMITED SEATS</option>
+        <option value="MANY SEATS">MANY SEATS</option>
+      </select>
+
+    <div id="destination_delay_dropdown"></div>
+      <label for="#delay-level">Delay</label>
+        <select id="destination-delay-level">
+          <option selected value="On Time"> -- select an option -- </option>
+          <option value="ON TIME">ON TIME</option>
+          <option value="ACCIDENT">ACCIDENT</option>
+          <option value="DELAY">DELAY</option>
+          <option value="EMERGENCY">EMERGENCY</option>
+      </select>
+
+      <button type="destination_button" name="destination_button" id="destination_button">SUBMIT</button>
+
+    <script src="./src/activity.js"></script>
+    <script src="./src/route.js"></script>
+    <script src="./src/bus.js"></script>
+    <script src="./src/appContainer.js"></script>
     <script src="./src/index.js"></script>
+
     <!-- <script src="http://api.prod.obanyc.com/api/siri/vehicle-monitoring.json?key=02e06296-1f9a-40a3-a94d-5a3d6ee09f2e&callback=jsonData">
     </script> -->
-
+    </div>
   </body>
 </html>

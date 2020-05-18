@@ -1,1 +1,2 @@
-console.log("KOLKL");
+const app = new AppContainer;
+app.startup();

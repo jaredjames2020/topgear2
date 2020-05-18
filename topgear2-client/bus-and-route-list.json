@@ -1,0 +1,1468 @@
+[
+  {
+    "destination": "Manhattan Beach",
+    "line": "B1",
+    "origin": "Bay Ridge"
+    "stops": "87 St/4 Av, 86 St/4 Av, 86 St/5 Av, 86 St/Ft Hamilton Py, 86 St/Dahlgren Pl, 86 St/7 Av, 86 St/11 Av, 86 St/12 Av, 86 St/13 Av, 86 St/14 Av, 86 St/15 Av, 86 St/16 Av, 86 St/17 Av, 86 St/18 Av, 86 St/19 Av, 86 St/20 Av, 86 St/21 Av, 86 St/Bay Py, 86 St/23 Av, 86 St/24 Av, 86 St/25 Av, 86 St/Stillwell Av, 86 St/Av U, 86 St/Av V, 86 St/W 8 St, 86 St/Av W, Av X/Shell Rd, Av X/W 1 St, Av X/E 1 St, Av X/E 3 St, Av X/Ocean Py, Ocean Pky/Shore Pky, Ocean Py/West Av, Ocean Py/Neptune Av, Ocean Py/Ocean View Av, Brighton Beach Av/Ocean Py, Brighton Beach Av/Brighton 1 Pl, Brighton Beach Av/Brighton 3 St, Brighton Beach Av/Brighton 6 St, Brighton Beach/Coney Island Av, Brighton Beach Av/Brighton 12 St, Brighton Beach Av/Brighton 14 St, Corbin Pl/Brighton Beach Av, Oriental Bl/West End Av, Oriental Bl/Beaumont St (Ltd - Does Not Stop), Oriental Bl/Dover St, Oriental Bl/Ocean Av, Oriental Bl/Hastings St, Oriental Bl/Kensington St, Oriental Bl/Mackenzie St"
+  },
+  {
+    "destination": "Kings Plaza",
+    "line": "B2"
+    "stops": "Flatbush Av/Av U, Flatbush Av/Av T, Av S/Flatbush Av, Av S/Kimball St, Av S/E 38 St, E 36 St/Av S, E 36 St/Fillmore Av, E 36 St/Av R, Av R/E 34 St, Av R/E 32 St, Av R/Marine Py, Av R/Burnett St, Av R/Gerritsen Av, Av R/Nostrand Av, Av R/E 28 St, Av R/Bedford Av, Av R/E 22 St, Av R/Ocean Av, Quentin Rd/E 19 St, Quentin Rd/E 16 St",
+    "origin": "Kings Hwy Station"
+  },
+  {
+    "destination": "Bergen Beach",
+    "line": "B3",
+    "origin": "Bensonhurst"
+    "25 Av/Harway Av, 25 Av/Bath Av, 25 Av/Benson Av, 25 Av/86 St, 25 Av/84 St, Stillwell Av/85 St, Av U/W 12 St, Av U/W 11 St, Av U/W 9 St, Av U/W 7 St, Av U/W 5 St, Av U/Mc Donald Av, Av U/E 1 St, Av U/E 4 St, Av U/Ocean Py, Av U/E 8 St, Av U/Coney Island Av, Av U/E 13 St, Av U/E 16 St, Av U/E 18 St, Av U/Ocean Av, Av U/E 23 St, Av U/Bedford Av, Av U/E 28 St, Av U/Nostrand Av, Av U/Brown St, Av U/Ford St, Av U/Bragg St, Av U/Gerritsen Av, Av U/Burnett St, Av U/E 33 St, Av U/E 35 St, Av U/E 37 St, Av U/E 38 St, Av U/Coleman St, Av U/Hendrickson St, Av U/Flatbush Av, Av U/E 54 St, Av U/E 56 St, Av U/E 57 St, Av U/E 59 St, Av U/Mill Av, Av U/E 64 St, Av U/E 66 St, Av U/E 69 St, Av U/E 71 St"
+  },
+  {
+    "destination": "Sheepshead Bay",
+    "line": "B4",
+    "origin": "Bay Ridge"
+    Knapp St/Harkness Av, Knapp St/Shore Pky, Emmons Av/Brigham St, Emmons Av/Ford St, Emmons Av/Brown St, Emmons Av/Nostrand Av, Emmons Av/E 28 St, Emmons Av/E 26 St, Emmons Av/Dooley St, Ocean Av/Shore Py, Ocean Av/Voorhies Av, Av Z/Ocean Av, Av Z/E 18 St, E 16 St/Sheepshead Bay Rd, Sheepshead Bay Rd/Voorhies Av, Sheepshead Bay Rd/Shore Pky, Sheepshead Bay Rd/Emmons Av, Emmons Av/E 16 St, Emmons Av/E 14 St, Neptune Av/E 12 St, Neptune Av/Coney Island Av, Neptune Av/Brighton 6 St, Neptune Av/Brighton 4 St, Neptune Av/Ocean Py, Ocean Py/West Av, Ocean Py/Shore Py, Av Z/Ocean Py, Av Z/West St, Av Z/W 2 St, Av Z/Shell Rd, Shell Rd/Bouck Ct, 86 St/Van Sicklen St, 86 St/W 7 St, 86 St/W 9 St, 86 St/W 11 St, 86 St/Av U, 86 St/Stillwell Av, Stillwell Av/Av T, Stillwell Av/Av S, Stillwell Av/Highlawn Av, Stillwell Av/Quentin Rd, Stillwell Av/Kings Hy, Bay Ridge Py/Bay Py, Bay Ridge Py/21 Av, Bay Ridge Py/20 Av, Bay Ridge Py/19 Av, Bay Ridge Py/18 Av, Bay Ridge Py/17 Av, Bay Ridge Py/New Utrecht Av, Bay Ridge Py/15 Av, Bay Ridge Py/14 Av, Bay Ridge Py/13 Av, Bay Ridge Py/12 Av, Bay Ridge Py/11 Av, Bay Ridge Py/10 Av, Bay Ridge Py/Ft Hamilton Py, Bay Ridge Py/7 Av, Bay Ridge Py/6 Av, Bay Ridge Py/5 Av, 4 Av/Bay Ridge Py, 4 Av/77 St, 78 St/4 Av, 78 St/3 Av, 78 St/Ridge Bl, 78 St/Colonial Rd, Narrows Av/77 St
+  },
+  {
+    "destination": "East New York",
+    "line": "B6",
+    "origin": "Bath Beach"
+    Cropsey Av Av/Bay 37 St, Cropsey Av/23 Av, Cropsey Av/Bay 31 St, Bay Py/Bath Av, Bay Py/Benson Av, Bay Py/86 St, Bay Pk/83 St, Bay Py/80 St, Bay Py/78 St, Bay Py/Stillwell Av, Bay Py/W 12 St, Bay Py/W 10 St, Bay Py/West 8 St, Bay Py/64 St, Bay Py/62 St, Bay Py/60 St, Bay Py/Mc Donald Av, Bay Py/E 3 St, Av J/E 5 St, Av J/Ocean Py, Av J/E 8 St, Av J/Coney Island Av, Av J/E 16 St, Av J/E 18 St, Av J/Ocean Av, Av J/E 22 St, Bedford Av/Av J, Bedford Av/Av I, Bedford Av/Campus Rd, Glenwood Rd/Bedford Av, Glenwood Rd/Flatbush Av, Glenwood Rd/Nostrand Av, Glenwood Rd/E 32 St, Glenwood Rd/E 34 St, Glenwood Rd/Brooklyn Av, Glenwood Rd/E 38 St, Glenwood Rd/Albany Av, Av H/Albany Av, Av H/E 43 St, Av H/E 45 St, Av H/E 48 St, Av H/Utica Av, Av H/E 52 St, Av H/E 54 St, Av H/E 56 St, Glenwood Rd/E 58 St, Ralph Av/Glenwood Rd, Flatlands Av/Ralph Av, Flatlands Av /E 77 St, Flatlands Av/E 80 St, Flatlands Av/E 82 St, Flatlands Av/E 84 St, Flatlands Av/E 86 St, Flatlands Av/E 88 St, Flatlands Av/Remsen Av, Flatlands Av/E 92 St, Flatlands Av/E 94 St, E 96 St/Flatlands Av, Glenwood Rd/E 98 St, Glenwood Rd/E 100 St, Glenwood Rd/E 103 St, Glenwood Rd/E 105 St, Glenwood Rd/E 108 St, Glenwood Rd/Williams Av, Cozine Av/Alabama Av, Cozine Av/Pennsylvania Av, Cozine Av/Vermont St, Cozine Av/Van Siclen Av, Cozine Av/Jerome St, Ashford St/Cozine Av, Ashford St/Wortman Av, Ashford St/Stanley Av, Ashford St/Linden Bl, Livonia Av/Ashford St
+  },
+  {
+    "destination": "BED-STUY BWAY-HALSEY via KINGS HWY",
+    "line": "B7",
+    "origin": "MIDWOOD CONEY ISLAND AV via KINGS HWY",
+"stops": "QUENTIN RD/CONEY ISLAND AV, KINGS HY/CONEY ISLAND AV, KINGS HY/E 13 ST, KINGS HY/EAST 16 ST, KINGS HY/E 18 ST, KINGS HY/OCEAN AV, KINGS HY/E 22 ST, KINGS HY/BEDFORD AV, KINGS HY/E 27 ST, KINGS HY/E 29 ST, KINGS HY/NOSTRAND AV, KINGS HY/AV N, KINGS HY/NEW YORK AV, KINGS HY/FRASER SQ, KINGS HY/E 37 ST, KINGS HY/FLATBUSH AV, KINGS HY/E 40 ST, KINGS HY/AV K, KINGS HY/AV J, KINGS HY/AV I, KINGS HY/SCHENECTADY AV, KINGS HY/AV H, KINGS HY/UTICA AV, KINGS HY/GLENWOOD RD, KINGS HY/PRESTON CT, KINGS HY/FOSTER AV, KINGS HY/AV D, KINGS HY/CLARENDON RD, KINGS HY/BEVERLY RD, KINGS HY/TILDEN AV, KINGS HY/SNYDER AV, KINGS HY/CHURCH AV, KINGS HY/LINDEN BL, KINGS HY/REMSEN AV, KINGS HY/EAST 92 ST, KINGS HY/EAST 94 ST, LENOX RD/E 95 ST, LENOX RD/ROCKAWAY PY, RIVERDALE AV/E 98 ST, SARATOGA AV/RIVERDALE AV, SARATOGA AV/LIVONIA AV, SARATOGA AV/DUMONT AV, SARATOGA AV/BLAKE AV, SARATOGA AV/SUTTER AV, SARATOGA AV/PITKIN AV, EAST NEW YORK AV/STRAUSS ST, EAST NEW YORK AV/AMBOY ST, THOMAS S BOYLAND ST/EASTERN PY, THOMAS S BOYLAND ST/ST MARKS AV, THOMAS S BOYLAND ST/DEAN ST, THOMAS S BOYLAND ST/ATLANTIC AV, THOMAS S BOYLAND ST/FULTON ST, THOMAS S BOYLAND ST/MAC DOUGAL ST, THOMAS S BOYLAND ST/MARION ST, THOMAS S BOYLAND ST/BAINBRIDGE ST, THOMAS S BOYLAND ST/MACDONOUGH ST, BROADWAY/HALSEY ST, SARATOGA AV/HALSEY ST"
+  },
+  {
+    "destination": "East Flatbush",
+    "line": "B8",
+    "origin": "Dyker Heights"
+  },
+  {
+    "destination": "Kings Plaza",
+    "line": "B9",
+    "origin": "Bay Ridge"
+  },
+  {
+    "destination": "Midwood",
+    "line": "B11",
+    "origin": "Sunset Park"
+  },
+  {
+    "destination": "East New York",
+    "line": "B12",
+    "origin": "Lefferts Gardens"
+  },
+  {
+    "destination": "Wyckoff Hospital",
+    "line": "B13",
+    "origin": "Spring Creek"
+  },
+  {
+    "destination": "Crown Heights",
+    "line": "B14",
+    "origin": "Spring Creek"
+  },
+  {
+    "destination": "JFK Airport",
+    "line": "B15",
+    "origin": "Bedford Stuyvesant"
+  },
+  {
+    "destination": "Lefferts Gardens",
+    "line": "B16",
+    "origin": "Bay Ridge"
+  },
+  {
+    "destination": "Crown Heights",
+    "line": "B17",
+    "origin": "Canarsie"
+  },
+  {
+    "destination": "Spring Creek",
+    "line": "B20",
+    "origin": "Ridgewood"
+  },
+  {
+    "destination": "Greenpoint",
+    "line": "B24",
+    "origin": "Williamsburg"
+  },
+  {
+    "destination": "Broadway Junction",
+    "line": "B25",
+    "origin": "Dwntn Bklyn & DUMBO"
+  },
+  {
+    "destination": "Ridgewood",
+    "line": "B26",
+    "origin": "Downtown Brooklyn"
+  },
+  {
+    "destination": "Kings Hwy Station",
+    "line": "B31",
+    "origin": "Gerritsen Beach"
+  },
+  {
+    "destination": "Long Island City",
+    "line": "B32",
+    "origin": "Williamsburg"
+  },
+  {
+    "destination": "Sunset Park",
+    "line": "B35",
+    "origin": "Brownsville"
+  },
+  {
+    "destination": "Coney Island",
+    "line": "B36",
+    "origin": "Sheepshead Bay"
+  },
+  {
+    "destination": "Bay Ridge",
+    "line": "B37",
+    "origin": "Downtown Brooklyn"
+  },
+  {
+    "destination": "Downtown Brooklyn",
+    "line": "B38",
+    "origin": "Ridgewood"
+  },
+  {
+    "destination": "Lower East Side",
+    "line": "B39",
+    "origin": "Williamsburg Bridge Plaza"
+  },
+  {
+    "destination": "Downtown Brooklyn",
+    "line": "B41",
+    "origin": "Kings Plaza"
+  },
+  {
+    "destination": "Rockaway Parkway Station",
+    "line": "B42",
+    "origin": "Canarsie Pier"
+  },
+  {
+    "destination": "Lefferts Gardens",
+    "line": "B43",
+    "origin": "Greenpoint"
+  },
+  {
+    "destination": "Williamsburg",
+    "line": "B44",
+    "origin": "Sheepshead Bay"
+  },
+  {
+    "destination": "Williamsburg",
+    "line": "B44-SBS",
+    "origin": "Sheepshead Bay"
+  },
+  {
+    "destination": "Crown Heights",
+    "line": "B45",
+    "origin": "Downtown Brooklyn"
+  },
+  {
+    "destination": "Williamsburg",
+    "line": "B46",
+    "origin": "Kings Plaza"
+  },
+  {
+    "destination": "Williamsburg",
+    "line": "B46-SBS",
+    "origin": "Kings Plaza"
+  },
+  {
+    "destination": "Bedford-Stuyvesant",
+    "line": "B47",
+    "origin": "Kings Plaza"
+  },
+  {
+    "destination": "Greenpoint",
+    "line": "B48",
+    "origin": "Lefferts Gardens"
+  },
+  {
+    "destination": "Bedford-Stuyvesant",
+    "line": "B49",
+    "origin": "Manhattan Beach"
+  },
+  {
+    "destination": "Ridgewood",
+    "line": "B52",
+    "origin": "Downtown Brooklyn"
+  },
+  {
+    "destination": "Ridgewood",
+    "line": "B54",
+    "origin": "Downtown Brooklyn"
+  },
+  {
+    "destination": "Maspeth",
+    "line": "B57",
+    "origin": "Gowanus"
+  },
+  {
+    "destination": "Canarsie",
+    "line": "B60",
+    "origin": "Williamsburg"
+  },
+  {
+    "destination": "Downtown Brooklyn",
+    "line": "B61",
+    "origin": "Park Slope"
+  },
+  {
+    "destination": "Long Island City",
+    "line": "B62",
+    "origin": "Downtown Brooklyn"
+  },
+  {
+    "destination": "Cobble Hill",
+    "line": "B63",
+    "origin": "Bay Ridge"
+  },
+  {
+    "destination": "Coney Island",
+    "line": "B64",
+    "origin": "Bay Ridge"
+  },
+  {
+    "destination": "Crown Heights",
+    "line": "B65",
+    "origin": "Downtown Brooklyn"
+  },
+  {
+    "destination": "Kensington",
+    "line": "B67",
+    "origin": "Brooklyn Navy Yard"
+  },
+  {
+    "destination": "Windsor Terrace",
+    "line": "B68",
+    "origin": "Coney Island"
+  },
+  {
+    "destination": "Kensington",
+    "line": "B69",
+    "origin": "Downtown Brooklyn"
+  },
+  {
+    "destination": "Dyker Height - Sunset Park(CHECK)",
+    "line": "B70",
+    "origin": "Dyker Heights - Sunset Park"
+  },
+  {
+    "destination": "Stillwell Av",
+    "line": "B74",
+    "origin": "Sea Gate"
+  },
+  {
+    "destination": "Spring Creek Towers",
+    "line": "B82",
+    "origin": "Coney Island"
+  },
+  {
+    "destination": "Spring Creek Towers",
+    "line": "B82-SBS",
+    "origin": "Coney Island"
+  },
+  {
+    "destination": "Broadway Junction",
+    "line": "B83",
+    "origin": "Spring Creek"
+  },
+  {
+    "destination": "Spring Creek-New Lots",
+    "line": "B84",
+    "origin": "Spring Creek-New Lots"
+  },
+  {
+    "destination": "Midwood",
+    "line": "B100",
+    "origin": "Mill Basin"
+  },
+  {
+    "destination": "Downtown Brooklyn Ltd",
+    "line": "B103",
+    "origin": "Canarsie"
+  },
+  {
+    "destination": "Downtown/Midtown",
+    "line": "BM1",
+    "origin": "Mill Basin"
+  },
+  {
+    "destination": "Downtown/Midtown",
+    "line": "BM2",
+    "origin": "Canarsie/Spring Creek"
+  },
+  {
+    "destination": "Downtown/Midtown",
+    "line": "BM3",
+    "origin": "Sheepshead Bay"
+  },
+  {
+    "destination": "Downtown/Midtown",
+    "line": "BM4",
+    "origin": "Gerritsen Beach"
+  },
+  {
+    "destination": "Midtown",
+    "line": "BM5",
+    "origin": "Spring Creek"
+  },
+  {
+    "destination": "Mott Haven",
+    "line": "Bx1",
+    "origin": "Riverdale"
+  },
+  {
+    "destination": "Mott Haven",
+    "line": "Bx2",
+    "origin": "Kingsbridge Heights"
+  },
+  {
+    "destination": "George Washington Bridge",
+    "line": "Bx3",
+    "origin": "Riverdale"
+  },
+  {
+    "destination": "The Hub",
+    "line": "Bx4",
+    "origin": "Westchester Sq"
+  },
+  {
+    "destination": "Gladstone Sq",
+    "line": "Bx4A",
+    "origin": "Westchester Sq"
+  },
+  {
+    "destination": "West Farms Rd & Southern Blvd",
+    "line": "Bx5",
+    "origin": "Pelham Bay"
+  },
+  {
+    "destination": "Riverside Dr",
+    "line": "Bx6",
+    "origin": "Hunts Point"
+  },
+  {
+    "destination": "Riverside Dr",
+    "line": "Bx6-SBS",
+    "origin": "Soundview"
+  },
+  {
+    "destination": "Washington Heights",
+    "line": "Bx7",
+    "origin": "Riverdale"
+  },
+  {
+    "destination": "Locust Point",
+    "line": "Bx8",
+    "origin": "Williamsbridge"
+  },
+  {
+    "destination": "West Farms Sq",
+    "line": "Bx9",
+    "origin": "Riverdale"
+  },
+  {
+    "destination": "Norwood",
+    "line": "Bx10",
+    "origin": "Riverdale"
+  },
+  {
+    "destination": "Southern Blvd & GW Bridge",
+    "line": "Bx11",
+    "origin": "Parkchester"
+  },
+  {
+    "destination": "Fordham Rd",
+    "line": "Bx12",
+    "origin": "Pelham Pkwy"
+  },
+  {
+    "destination": "Fordham Rd",
+    "line": "Bx12-SBS",
+    "origin": "Pelham Pkwy"
+  },
+  {
+    "destination": "Yankee Stadium",
+    "line": "Bx13",
+    "origin": "George Washington Bridge"
+  },
+  {
+    "destination": "The Hub",
+    "line": "Bx15",
+    "origin": "Fordham Plaza"
+  },
+  {
+    "destination": "Norwood",
+    "line": "Bx16",
+    "origin": "Pelham"
+  },
+  {
+    "destination": "Port Morris",
+    "line": "Bx17",
+    "origin": "Fordham Plaza"
+  },
+  {
+    "destination": "Morris Heights/High Bridge Circulator(CHECK)",
+    "line": "Bx18",
+    "origin": "Morris Heights/High Bridge Circulator"
+  },
+  {
+    "destination": "Riverbank Park",
+    "line": "Bx19",
+    "origin": "NY Botanical Garden"
+  },
+  {
+    "destination": "Mott Haven",
+    "line": "Bx21",
+    "origin": "Westchester Sq"
+  },
+  {
+    "destination": "Castle Hill",
+    "line": "Bx22",
+    "origin": "Bedford Park"
+  },
+  {
+    "destination": "Co-Op City",
+    "line": "Bx23",
+    "origin": "Pelham Bay"
+  },
+  {
+    "destination": "Hutchinson Metro Center",
+    "line": "Bx24",
+    "origin": "Country Club"
+  },
+  {
+    "destination": "Bedford Park",
+    "line": "Bx26",
+    "origin": "Co-op City Section 5"
+  },
+  {
+    "destination": "West Farms Rd & Southern Blvd",
+    "line": "Bx27",
+    "origin": "Clasons Pt"
+  },
+  {
+    "destination": "Fordham Center",
+    "line": "Bx28",
+    "origin": "Co-op City Section 5"
+  },
+  {
+    "destination": "Pelham Bay Pk Station",
+    "line": "Bx29",
+    "origin": "City Island"
+  },
+  {
+    "destination": "Pelham Pkwy",
+    "line": "Bx30",
+    "origin": "Co-op City Section 5"
+  },
+  {
+    "destination": "Westchester Sq",
+    "line": "Bx31",
+    "origin": "Woodlawn"
+  },
+  {
+    "destination": "Mott Haven",
+    "line": "Bx32",
+    "origin": "Kingsbridge VA Hospital"
+  },
+  {
+    "destination": "Harlem",
+    "line": "Bx33",
+    "origin": "Port Morris"
+  },
+  {
+    "destination": "Fordham Center",
+    "line": "Bx34",
+    "origin": "Woodlawn"
+  },
+  {
+    "destination": "GW Bridge",
+    "line": "Bx35",
+    "origin": "West Farms Rd & Jennings St"
+  },
+  {
+    "destination": "George Washington Bridge",
+    "line": "Bx36",
+    "origin": "Soundview"
+  },
+  {
+    "destination": "Norwood",
+    "line": "Bx38",
+    "origin": "Co-op City Bay Plaza"
+  },
+  {
+    "destination": "Clasons Pt",
+    "line": "Bx39",
+    "origin": "Wakefield"
+  },
+  {
+    "destination": "River Park Towers",
+    "line": "Bx40",
+    "origin": "Throgs Neck"
+  },
+  {
+    "destination": "The Hub",
+    "line": "Bx41",
+    "origin": "Williamsbridge"
+  },
+  {
+    "destination": "The Hub",
+    "line": "Bx41-SBS",
+    "origin": "Williamsbridge"
+  },
+  {
+    "destination": "River Park Towers",
+    "line": "Bx42",
+    "origin": "Throgs Neck"
+  },
+  {
+    "destination": "Westchester Av / Hunts Point Market",
+    "line": "Bx46",
+    "origin": "Prospect Av"
+  },
+  {
+    "destination": "Midtown Via 3 Ave",
+    "line": "BxM1",
+    "origin": "Riverdale"
+  },
+  {
+    "destination": "Midtown Via 7 Ave",
+    "line": "BxM2",
+    "origin": "Riverdale"
+  },
+  {
+    "destination": "Midtown",
+    "line": "BxM3",
+    "origin": "Yonkers"
+  },
+  {
+    "destination": "Midtown",
+    "line": "BxM4",
+    "origin": "Woodlawn"
+  },
+  {
+    "destination": "Midtown",
+    "line": "BxM6",
+    "origin": "Parkchester"
+  },
+  {
+    "destination": "Midtown",
+    "line": "BxM7",
+    "origin": "Co-Op City"
+  },
+  {
+    "destination": "Midtown",
+    "line": "BxM8",
+    "origin": "Pelham Bay/City Island"
+  },
+  {
+    "destination": "Midtown",
+    "line": "BxM9",
+    "origin": "Throgs Neck"
+  },
+  {
+    "destination": "Midtown",
+    "line": "BxM10",
+    "origin": "Williamsbridge/Morris Park"
+  },
+  {
+    "destination": "Midtown",
+    "line": "BxM11",
+    "origin": "Wakefield"
+  },
+  {
+    "destination": "Downtown",
+    "line": "BxM18",
+    "origin": "Riverdale"
+  },
+  {
+    "destination": "East Village",
+    "line": "M1",
+    "origin": "Harlem"
+  },
+  {
+    "destination": "East Village",
+    "line": "M2",
+    "origin": "Washington Heights"
+  },
+  {
+    "destination": "East Village",
+    "line": "M3",
+    "origin": "Fort George"
+  },
+  {
+    "destination": "32 St",
+    "line": "M4",
+    "origin": "The Cloisters"
+  },
+  {
+    "destination": "31 St & 6 Av",
+    "line": "M5",
+    "origin": "George Washington Bridge"
+  },
+  {
+    "destination": "14th Street",
+    "line": "M7",
+    "origin": "Harlem"
+  },
+  {
+    "destination": "East Village LTD",
+    "line": "M8",
+    "origin": "West Village"
+  },
+  {
+    "destination": "Kips Bay",
+    "line": "M9",
+    "origin": "Battery Park City"
+  },
+  {
+    "destination": "Columbus Circle",
+    "line": "M10",
+    "origin": "Harlem"
+  },
+  {
+    "destination": "West Village",
+    "line": "M11",
+    "origin": "Riverbank Park & Harlem"
+  },
+  {
+    "destination": "West Village",
+    "line": "M12",
+    "origin": "Midtown West"
+  },
+  {
+    "destination": "Abingdon Sq",
+    "line": "M14A-SBS",
+    "origin": "Lower East Side"
+  },
+  {
+    "destination": "Chelsea Piers",
+    "line": "M14D-SBS",
+    "origin": "Lower East Side"
+  },
+  {
+    "destination": "South Ferry",
+    "line": "M15",
+    "origin": "East Harlem"
+  },
+  {
+    "destination": "South Ferry",
+    "line": "M15-SBS",
+    "origin": "East Harlem"
+  },
+  {
+    "destination": "South Ferry",
+    "line": "M20",
+    "origin": "Lincoln Center"
+  },
+  {
+    "destination": "West Village LTD",
+    "line": "M21",
+    "origin": "Lower East Side"
+  },
+  {
+    "destination": "Battery Park City",
+    "line": "M22",
+    "origin": "Lower East Side"
+  },
+  {
+    "destination": "East Side",
+    "line": "M23-SBS",
+    "origin": "Chelsea Piers"
+  },
+  {
+    "destination": "Clinton",
+    "line": "M31",
+    "origin": "Yorkville"
+  },
+  {
+    "destination": "Javits Center",
+    "line": "M34-SBS",
+    "origin": "East Side"
+  },
+  {
+    "destination": "Port Authority Terminal",
+    "line": "M34A-SBS",
+    "origin": "Waterside"
+  },
+  {
+    "destination": "East Harlem",
+    "line": "M35",
+    "origin": "Ward's Island"
+  },
+  {
+    "destination": "W 42 St Pier",
+    "line": "M42",
+    "origin": "United Nations"
+  },
+  {
+    "destination": "East Side",
+    "line": "M50",
+    "origin": "W 42 St Pier"
+  },
+  {
+    "destination": "South Ferry",
+    "line": "M55",
+    "origin": "W 44 St"
+  },
+  {
+    "destination": "West Side",
+    "line": "M57",
+    "origin": "East Side"
+  },
+  {
+    "destination": "West Side",
+    "line": "M60-SBS",
+    "origin": "LaGuardia Airport"
+  },
+  {
+    "destination": "Lincoln Center",
+    "line": "M66",
+    "origin": "East Side"
+  },
+  {
+    "destination": "West Side",
+    "line": "M72",
+    "origin": "East Side"
+  },
+  {
+    "destination": "West Side",
+    "line": "M79-SBS",
+    "origin": "Yorkville"
+  },
+  {
+    "destination": "West Side",
+    "line": "M86-SBS",
+    "origin": "Yorkville"
+  },
+  {
+    "destination": "West Side",
+    "line": "M96",
+    "origin": "East Side"
+  },
+  {
+    "destination": "Manhattanville",
+    "line": "M100",
+    "origin": "Inwood"
+  },
+  {
+    "destination": "Harlem",
+    "line": "M101",
+    "origin": "East Village"
+  },
+  {
+    "destination": "East Village",
+    "line": "M102",
+    "origin": "Harlem"
+  },
+  {
+    "destination": "City Hall",
+    "line": "M103",
+    "origin": "East Harlem"
+  },
+  {
+    "destination": "Times Square",
+    "line": "M104",
+    "origin": "West Harlem"
+  },
+  {
+    "destination": "West Side",
+    "line": "M106",
+    "origin": "East Harlem"
+  },
+  {
+    "destination": "East Harlem",
+    "line": "M116",
+    "origin": "West Side"
+  },
+  {
+    "destination": "191 ST Shuttle Loop(CHECK)",
+    "line": "M191",
+    "origin": "191 ST Shuttle Loop"
+  },
+  {
+    "destination": "Jamaica",
+    "line": "Q1",
+    "origin": "Queens Village / Bellerose"
+  },
+  {
+    "destination": "Jamaica",
+    "line": "Q2",
+    "origin": "Queens Village"
+  },
+  {
+    "destination": "JFK Airport",
+    "line": "Q3",
+    "origin": "Jamaica"
+  },
+  {
+    "destination": "Jamaica",
+    "line": "Q4",
+    "origin": "Cambria Heights"
+  },
+  {
+    "destination": "Jamaica",
+    "line": "Q5",
+    "origin": "Rosedale"
+  },
+  {
+    "destination": "Sutphin Boulevard(CHECK)",
+    "line": "Q6",
+    "origin": "Sutphin Boulevard"
+  },
+  {
+    "destination": "Rockaway Boulevard(CHECK)",
+    "line": "Q7",
+    "origin": "Rockaway Boulevard"
+  },
+  {
+    "destination": "101St Avenue(CHECK)",
+    "line": "Q8",
+    "origin": "101St Avenue"
+  },
+  {
+    "destination": "Lincoln Street(CHECK)",
+    "line": "Q9",
+    "origin": "Lincoln Street"
+  },
+  {
+    "destination": "Jfk Airport",
+    "line": "Q10",
+    "origin": "Kew Gardens"
+  },
+  {
+    "destination": "Woodhaven Blvd(CHECK)",
+    "line": "Q11",
+    "origin": "Woodhaven Blvd"
+  },
+  {
+    "destination": "Flushing",
+    "line": "Q12",
+    "origin": "Little Neck"
+  },
+  {
+    "destination": "Flushing",
+    "line": "Q13",
+    "origin": "Fort Totten"
+  },
+  {
+    "destination": "Beechhurst",
+    "line": "Q15",
+    "origin": "Flushing"
+  },
+  {
+    "destination": "Beechhurst / Whitestone",
+    "line": "Q15A",
+    "origin": "Flushing"
+  },
+  {
+    "destination": "Flushing",
+    "line": "Q16",
+    "origin": "Fort Totten"
+  },
+  {
+    "destination": "Jamaica",
+    "line": "Q17",
+    "origin": "Flushing"
+  },
+  {
+    "destination": "65 Pl",
+    "line": "Q18",
+    "origin": "30 Ave - 58 St"
+  },
+  {
+    "destination": "Astoria Blvd(CHECK)",
+    "line": "Q19",
+    "origin": "Astoria Blvd"
+  },
+  {
+    "destination": "Jamaica",
+    "line": "Q20A",
+    "origin": "College Point"
+  },
+  {
+    "destination": "Jamaica",
+    "line": "Q20B",
+    "origin": "College Point"
+  },
+  {
+    "destination": "Woodhaven Blvds",
+    "line": "Q21",
+    "origin": "Cross Bay"
+  },
+  {
+    "destination": "Beach Channel Dr",
+    "line": "Q22",
+    "origin": "Rockaway Beach Blvd"
+  },
+  {
+    "destination": "108 Street(CHECK)",
+    "line": "Q23",
+    "origin": "108 Street"
+  },
+  {
+    "destination": "Jamaica",
+    "line": "Q24",
+    "origin": "Broadway Junction"
+  },
+  {
+    "destination": "Parsons Bl",
+    "line": "Q25",
+    "origin": "127 Street - Kissena Bl"
+  },
+  {
+    "destination": "Flushing",
+    "line": "Q27",
+    "origin": "Cambria Heights"
+  },
+  {
+    "destination": "Flushing",
+    "line": "Q28",
+    "origin": "Bayside"
+  },
+  {
+    "destination": "80 Street",
+    "line": "Q29",
+    "origin": "Dry Harbor Road"
+  },
+  {
+    "destination": "Jamaica",
+    "line": "Q30",
+    "origin": "Little Neck or Queensborough Community College"
+  },
+  {
+    "destination": "Jamaica",
+    "line": "Q31",
+    "origin": "Bayside"
+  },
+  {
+    "destination": "Penn Station",
+    "line": "Q32",
+    "origin": "Jackson Heights"
+  },
+  {
+    "destination": "95 St & Ditmars Blvd",
+    "line": "Q33",
+    "origin": "82 St/83 St"
+  },
+  {
+    "destination": "Parsons Bl",
+    "line": "Q34",
+    "origin": "Willets Pt Bl - Kissena Bl"
+  },
+  {
+    "destination": "Brooklyn College",
+    "line": "Q35",
+    "origin": "Rockaway Park"
+  },
+  {
+    "destination": "Jamaica",
+    "line": "Q36",
+    "origin": "Floral Park or Little Neck"
+  },
+  {
+    "destination": "111Th Street(CHECK)",
+    "line": "Q37",
+    "origin": "111Th Street"
+  },
+  {
+    "destination": "Penelope Ave",
+    "line": "Q38",
+    "origin": "Eliot Ave"
+  },
+  {
+    "destination": "Forest Ave",
+    "line": "Q39",
+    "origin": "48 Ave - 58 St"
+  },
+  {
+    "destination": "142Nd Street(CHECK)",
+    "line": "Q40",
+    "origin": "142Nd Street"
+  },
+  {
+    "destination": "109Th Avenue",
+    "line": "Q41",
+    "origin": "127Th Street"
+  },
+  {
+    "destination": "Jamaica",
+    "line": "Q42",
+    "origin": "Addeslieigh Park"
+  },
+  {
+    "destination": "Jamaica",
+    "line": "Q43",
+    "origin": "Floral Park"
+  },
+  {
+    "destination": "Jamaica",
+    "line": "Q44-SBS",
+    "origin": "Bronx Zoo"
+  },
+  {
+    "destination": "Kew Gardens",
+    "line": "Q46",
+    "origin": "Glen Oaks"
+  },
+  {
+    "destination": "Laguardia Main Term",
+    "line": "Q47",
+    "origin": "Atlas Mall"
+  },
+  {
+    "destination": "LaGuardia Airport",
+    "line": "Q48",
+    "origin": "Flushing"
+  },
+  {
+    "destination": "35 Ave(CHECK)",
+    "line": "Q49",
+    "origin": "35 Ave"
+  },
+  {
+    "destination": "Flushing",
+    "line": "Q50",
+    "origin": "Co-Op City/Pelham Bay"
+  },
+  {
+    "destination": "Arverne",
+    "line": "Q52-SBS",
+    "origin": "Elmhurst"
+  },
+  {
+    "destination": "Rockaway Park",
+    "line": "Q53-SBS",
+    "origin": "Woodside"
+  },
+  {
+    "destination": "Jamaica",
+    "line": "Q54",
+    "origin": "Williamsburg"
+  },
+  {
+    "destination": "Richmond Hill",
+    "line": "Q55",
+    "origin": "Ridgewood"
+  },
+  {
+    "destination": "Jamaica",
+    "line": "Q56",
+    "origin": "Broadway Junction"
+  },
+  {
+    "destination": "Flushing",
+    "line": "Q58",
+    "origin": "Ridgewood"
+  },
+  {
+    "destination": "Rego Park",
+    "line": "Q59",
+    "origin": "Williamsburg"
+  },
+  {
+    "destination": "Queens Boulevard(CHECK)",
+    "line": "Q60",
+    "origin": "Queens Boulevard"
+  },
+  {
+    "destination": "Jewel Ave(CHECK)",
+    "line": "Q64",
+    "origin": "Jewel Ave"
+  },
+  {
+    "destination": "College Point Bl - 164 St(CHECK)",
+    "line": "Q65",
+    "origin": "College Point Bl - 164 St"
+  },
+  {
+    "destination": "Northern Blvd/Queens Plaza S(CHECK)",
+    "line": "Q66",
+    "origin": "Northern Blvd/Queens Plaza S"
+  },
+  {
+    "destination": "69 Street",
+    "line": "Q67",
+    "origin": "Borden Ave"
+  },
+  {
+    "destination": "Ditmars Blvd",
+    "line": "Q69",
+    "origin": "21 St"
+  },
+  {
+    "destination": "LaGuardia Link(CHECK)",
+    "line": "Q70-SBS",
+    "origin": "LaGuardia Link"
+  },
+  {
+    "destination": "LaGuardia Main Term",
+    "line": "Q72",
+    "origin": "Junction Blvd"
+  },
+  {
+    "destination": "Jamaica",
+    "line": "Q76",
+    "origin": "College Point"
+  },
+  {
+    "destination": "Jamaica",
+    "line": "Q77",
+    "origin": "Laurelton"
+  },
+  {
+    "destination": "Jamaica",
+    "line": "Q83",
+    "origin": "Cambria Heights"
+  },
+  {
+    "destination": "Jamaica",
+    "line": "Q84",
+    "origin": "Laurelton"
+  },
+  {
+    "destination": "Jamaica",
+    "line": "Q85",
+    "origin": "Rosedale"
+  },
+  {
+    "destination": "Queens Village",
+    "line": "Q88",
+    "origin": "Elmhurst"
+  },
+  {
+    "destination": "Long Island City",
+    "line": "Q100",
+    "origin": "Rikers Island"
+  },
+  {
+    "destination": "Steinway Street(CHECK)",
+    "line": "Q101",
+    "origin": "Steinway Street"
+  },
+  {
+    "destination": "Roosevelt Island",
+    "line": "Q102",
+    "origin": "31 St"
+  },
+  {
+    "destination": "Borden Ave",
+    "line": "Q103",
+    "origin": "27 Ave"
+  },
+  {
+    "destination": "48 Street",
+    "line": "Q104",
+    "origin": "Broadway"
+  },
+  {
+    "destination": "Hempstead Ave",
+    "line": "Q110",
+    "origin": "Jamaica Ave"
+  },
+  {
+    "destination": "147Th Ave",
+    "line": "Q111",
+    "origin": "Guy Brewer Blvd"
+  },
+  {
+    "destination": "Liberty Ave(CHECK)",
+    "line": "Q112",
+    "origin": "Liberty Ave"
+  },
+  {
+    "destination": "Nassau Expwy Ltd",
+    "line": "Q113",
+    "origin": "Guy Brewer Blvd"
+  },
+  {
+    "destination": "Rockaway Tpk",
+    "line": "Q114",
+    "origin": "Guy Brewer Blvd Ltd"
+  },
+  {
+    "destination": "Midtown Via 6 Av",
+    "line": "QM1",
+    "origin": "Fresh Meadows"
+  },
+  {
+    "destination": "Midtown Via 6 Av",
+    "line": "QM2",
+    "origin": "Bay Terrace"
+  },
+  {
+    "destination": "Midtown",
+    "line": "QM3",
+    "origin": "Little Neck"
+  },
+  {
+    "destination": "Midtown Via 6Th Ave",
+    "line": "QM4",
+    "origin": "Electchester"
+  },
+  {
+    "destination": "Midtown Via 6 Av",
+    "line": "QM5",
+    "origin": "Glen Oaks"
+  },
+  {
+    "destination": "Midtown Via 6 Av",
+    "line": "QM6",
+    "origin": "Lake Success"
+  },
+  {
+    "destination": "Downtown",
+    "line": "QM7",
+    "origin": "Fresh Meadows"
+  },
+  {
+    "destination": "Downtown",
+    "line": "QM8",
+    "origin": "Glen Oaks"
+  },
+  {
+    "destination": "Midtown Via 6 Av",
+    "line": "QM10",
+    "origin": "Lefrak City"
+  },
+  {
+    "destination": "Downtown",
+    "line": "QM11",
+    "origin": "Forest Hills"
+  },
+  {
+    "destination": "Midtown Via 6 Av",
+    "line": "QM12",
+    "origin": "Forest Hills"
+  },
+  {
+    "destination": "Midtown Express",
+    "line": "QM15",
+    "origin": "Lindenwood"
+  },
+  {
+    "destination": "Midtown Express",
+    "line": "QM16",
+    "origin": "Neponsit"
+  },
+  {
+    "destination": "Midtown Express",
+    "line": "QM17",
+    "origin": "Far Rockaway"
+  },
+  {
+    "destination": "Midtown Express",
+    "line": "QM18",
+    "origin": "South Ozone Park"
+  },
+  {
+    "destination": "Midtown",
+    "line": "QM20",
+    "origin": "Bay Terrace"
+  },
+  {
+    "destination": "Midtown",
+    "line": "QM21",
+    "origin": "Rochdale Village"
+  },
+  {
+    "destination": "Midtown Via 6 Av",
+    "line": "QM24",
+    "origin": "Glendale"
+  },
+  {
+    "destination": "Downtown",
+    "line": "QM25",
+    "origin": "Glendale"
+  },
+  {
+    "destination": "Midtown Via 3 Av",
+    "line": "QM31",
+    "origin": "Fresh Meadows"
+  },
+  {
+    "destination": "Midtown Via 3 Av",
+    "line": "QM32",
+    "origin": "Bay Terrace"
+  },
+  {
+    "destination": "Midtown Via 3 Av",
+    "line": "QM34",
+    "origin": "Glendale"
+  },
+  {
+    "destination": "Midtown Via 3 Av",
+    "line": "QM35",
+    "origin": "Glen Oaks"
+  },
+  {
+    "destination": "Midtown Via 3 Av",
+    "line": "QM36",
+    "origin": "Lake Success"
+  },
+  {
+    "destination": "Midtown Via 3 Av",
+    "line": "QM40",
+    "origin": "Lefrak City"
+  },
+  {
+    "destination": "Midtown Via 3 Av",
+    "line": "QM42",
+    "origin": "Forest Hills"
+  },
+  {
+    "destination": "Midtown Via 3Rd Ave",
+    "line": "QM44",
+    "origin": "Electchester"
+  },
+  {
+    "destination": "Goethals Rd North",
+    "line": "S40",
+    "origin": "St. George"
+  },
+  {
+    "destination": "Staten Island Mall",
+    "line": "S44",
+    "origin": "St. George"
+  },
+  {
+    "destination": "West Shore Plaza",
+    "line": "S46",
+    "origin": "St. George"
+  },
+  {
+    "destination": "Mariners Harbor",
+    "line": "S48",
+    "origin": "St. George"
+  },
+  {
+    "destination": "West Shore Plaza",
+    "line": "S51",
+    "origin": "St. George"
+  },
+  {
+    "destination": "Staten Island Univ. Hospital",
+    "line": "S52",
+    "origin": "St. George"
+  },
+  {
+    "destination": "Bay Ridge",
+    "line": "S53",
+    "origin": "Port Richmond"
+  },
+  {
+    "destination": "Eltingville",
+    "line": "S54",
+    "origin": "West New Brighton"
+  },
+  {
+    "destination": "Staten Island Mall",
+    "line": "S55",
+    "origin": "Rossville"
+  },
+  {
+    "destination": "Staten Island Mall",
+    "line": "S56",
+    "origin": "Huguenot"
+  },
+  {
+    "destination": "New Dorp",
+    "line": "S57",
+    "origin": "Port Richmond"
+  },
+  {
+    "destination": "Tottenville",
+    "line": "S59",
+    "origin": "Port Richmond"
+  },
+  {
+    "destination": "Staten Island Mall",
+    "line": "S61",
+    "origin": "St. George"
+  },
+  {
+    "destination": "Travis",
+    "line": "S62",
+    "origin": "St. George"
+  },
+  {
+    "destination": "Bricktown Mall",
+    "line": "S74",
+    "origin": "St. George"
+  },
+  {
+    "destination": "Oakwood",
+    "line": "S76",
+    "origin": "St. George"
+  },
+  {
+    "destination": "Bricktown Mall",
+    "line": "S78",
+    "origin": "St. George"
+  },
+  {
+    "destination": "Bay Ridge",
+    "line": "S79-SBS",
+    "origin": "Staten Island Mall"
+  },
+  {
+    "destination": "Bayonne LTD",
+    "line": "S89",
+    "origin": "Eltingville"
+  },
+  {
+    "destination": "Manhattan Express",
+    "line": "SIM1C",
+    "origin": "Staten Island"
+  },
+  {
+    "destination": "Manhattan Express",
+    "line": "SIM3C",
+    "origin": "Staten Island"
+  },
+  {
+    "destination": "Manhattan Express",
+    "line": "SIM4C",
+    "origin": "Staten Island"
+  },
+  {
+    "destination": "Greenwich Village Express",
+    "line": "SIM33C",
+    "origin": "Mariners Harbor"
+  },
+  {
+    "destination": "Manhattan Express",
+    "line": "X27",
+    "origin": "Bay Ridge"
+  },
+  {
+    "destination": "Manhattan Express",
+    "line": "X28",
+    "origin": "Sea Gate / Bensonhurst"
+  },
+  {
+    "destination": "Midtown Manhattan Express",
+    "line": "X63",
+    "origin": "Rosedale"
+  },
+  {
+    "destination": "Midtown Manhattan Express",
+    "line": "X64",
+    "origin": "Cambria Heights"
+  },
+  {
+    "destination": "Midtown Manhattan Express",
+    "line": "X68",
+    "origin": "Floral Park"
+  }
+]
